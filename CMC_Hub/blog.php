@@ -1,0 +1,1 @@
+<?php  require "./view/blog_view.php";
